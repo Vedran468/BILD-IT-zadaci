@@ -1,0 +1,10 @@
+ 
+    n1
+ 
+// (Add package statement) Suppose you have Java source files under the directories	chapter1, chapte-
+er2, . . . , chapter34. Write a program to insert the-
+ 
+    n2 
+ 
+// (Add package statement) Suppose you have Java source files under the directories	chapter1, chapte-
+er2, . . . , chapter34. Write a program to insert the-
