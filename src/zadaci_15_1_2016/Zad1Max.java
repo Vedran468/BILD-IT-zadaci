@@ -1,8 +1,9 @@
 package zadaci_15_1_2016;
 
-import java.util.ArrayList;
+import java.util.ArrayList; 
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
 
 /*1. Napisati sljedecu metodu koja vraca najvecu vrijednosti u
  *  ArrayListu Integera. Metoda vraca null ukoliko je lista null 
