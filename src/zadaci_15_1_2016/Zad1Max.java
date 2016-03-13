@@ -5,6 +5,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 
+
+
 /*1. Napisati sljedecu metodu koja vraca najvecu vrijednosti u
  *  ArrayListu Integera. Metoda vraca null ukoliko je lista null 
  *  iil ukoliko lista sadrzi 0 elemenata.
