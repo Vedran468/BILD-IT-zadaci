@@ -1,4 +1,4 @@
-/*4. Napisati metodu koja ispisuje n x n matricu korsiteci sljedeci header:
+/*4. Napisati metodu koja ispisuje n x n matricu korsiteci sljedeci header: 
 
 public static void printMatrix(int n)
 
